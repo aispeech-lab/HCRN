@@ -7,7 +7,7 @@ resampy
 soundfile   
 pysepq  
 librosa  
-pystoi
+pystoi  
 lera
 
 # Data Preparation
