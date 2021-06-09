@@ -16,7 +16,7 @@ Use the scripts in preprocess to process the WSJ, ESC-50 and Audioset datasets. 
 # Train and test
 For training:  python3 Train.py
 
-For testing:  pytho3 Test.py
+For testing:  python3 Test.py
 
 Please modify specify processed dataset paths in config.yaml.
 
