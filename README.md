@@ -24,10 +24,10 @@ Please modify specify processed dataset paths in config.yaml.
 If you have any questions, please feel free to contact me at huangyating2016@ia.ac.cn
 
 # Citations
-@article{huang2021Towards,
-  title={Towards Modeling Auditory Restoration
-in Noisy Environments},
-  author={Huang, Yating and Hao, Yunzhe and Xu, Jiaming and Xu, Bo}
-  journal={Proc. IJCNN 2021}
-  year={2021}
-}
+@inproceedings{huang2021towards,    
+  title={Towards Modeling Auditory Restoration in Noisy Environments},    
+  author={Huang, Yating and Hao, Yunzhe and Xu, Jiaming and Xu, Bo},    
+  booktitle={In Proceedings of the 33th International Joint Conference on Neural Network (IJCNN)},    
+  year={2021},    
+  organization={IEEE}    
+}    
